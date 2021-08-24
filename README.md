@@ -2,7 +2,7 @@
 
 A very simple restaurant people counter made with Flutter.
 
-![alt 'App Screenshot'](https://github.com/wuerta/people-counter-flutter/blob/main/app_screenshot.png?raw=true)
+<img alt="App Screenshot" src="https://github.com/wuerta/people-counter-flutter/blob/main/app_screenshot.png?raw=true" height="720">
 
 ## Getting Started
 
